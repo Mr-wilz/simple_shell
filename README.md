@@ -18,7 +18,7 @@ This program was written entirely in C Language.
 
 ## COPYRIGHT
 
-Copyright (C) 2023 by [**Whilz Abel**](https://github.com/Mr-wils) </br>
+Copyright (C) 2023 by [**Whilz Abel**](https://github.com/Mr-wilz) </br>
 All rights reserved
 
 ## Description :
